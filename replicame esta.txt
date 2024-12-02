@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang=zxx>
+<head>
+	<meta charset="UTF-8"
+</head>
+<body>
+	<tabla border="1">
+		<tr>
+		<th>Japón</th>
+		<td><a href="imagenes/japón.jpg"></a></td>
+		<a href="https://es.wikipedia.org/wiki/Japón" target="_black">Más información en la Wikipedia</a>
+		</tr>
+	</table>
+</body>
+</html>
