@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<htnl lang="zxx">
+<head>
+	<meta crarset="UTF-8">
+	<meta name="descrriction" content="Descripción de la página">
+	<title>Repuestos CasMart</title>
+	<link rel="icon" href="imagenes/maquina.jpg">
+</head>
+<body>
+	<header>
+		<h3>Repuestos CasMart</h3>
+		<figure>
+			<img src="imagenes/menu.jpg" alt="Menú" windht="20" height="25">
+			<img src="imagenes/iniciar sesion.png" alt="iniciar_sesion" windht="20" height="25"> 
+			<img src="imagenes/lupa.png" alt="Buscar Articulo" windht="20" height="25">
+		</figure>
+		<p>Inicio</p>
+		
+	</header>
+	<main>
+		<figure>
+			<img src="imagenes/maquina.jpg" alt="Maquinas"  width="100" height="90" title="Maquinas">
+			<figcaption>Maquinas</figcaption>
+			<img src="imagenes/neumatico.jpg" alt="Neumaticos"  width="100" height="90" title="Neumaticos">
+			<figcaption>Neumaticos</figcaption>
+			<img src="imagenes/tubo de escape.jpg" alt="Tubos de Escape"  width="100" height="90" title="Escapes">
+			<figcaption>Tubos de Escape</figcaption>
+			<img src="imagenes/tanque de gasolina.jpg" alt="Tanques de Gasolina"  width="100" height="90" title="Tanques de Gasolina">
+			<figcaption>Tanque de Gasolina</figcaption>
+		</figure>
+		<a href="#siguiente">Siguiente</a>
+	</main>
+</body>
+</html>
