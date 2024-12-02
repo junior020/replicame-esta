@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang=zxx>
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<tabla border="1">
+		<tr>
+		<th>Japón</th>
+		<td><img="imagenes/japón.jpg"></td>
+		<a href="https://es.wikipedia.org/wiki/Japón" target="_black">Más información en la Wikipedia</a>
+		<br>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/mlESQKFUNfw?si=ABBR_Ebm9z5EBqlh" 
+		title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; 
+		gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		</tr>
+	</table>
+</body>
+</html>
